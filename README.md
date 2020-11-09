@@ -11,4 +11,4 @@ like any other network code.
 <b>controller</b> is a google's example for the Controller.  Nothing was changed, only it's now setup for studio.
 
 These are example code for University of Wyoming, Cosc 4730 Mobile Programming course.
-All examples are for Android.
+All examples are for Android
